@@ -26,13 +26,11 @@
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [SweetnFresh](https://www.sweetnfresh.com/)  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td><td valign="top" width="50%">
 
+⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td></tr></table>  
